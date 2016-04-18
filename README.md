@@ -1,4 +1,4 @@
-# githooksclientsideprecommit
+# githooks clientside pre-commit
  This will run sonar analysis in incremental mode with issue report plugin.
  To run this and function correctly, you have to install Sonar Issue report Plugin within SonarQube server.
  After Running this command it will generate HTML reports which will have all issues present in updated/new files.
